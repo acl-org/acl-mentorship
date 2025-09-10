@@ -33,7 +33,7 @@
     - {name: "site", link: "https://www.cs.stanford.edu/~vinod/"}
 - 
   id: 3
-  name: "Zhijing"
+  name: "Prof. Zhijing"
   surname: "Jin"
   title: "Assistant Professor at University of Toronto"
   thumbnailUrl: zhijing.jpg
@@ -44,7 +44,7 @@
     - {name: "site", link: "https://zhijing-jin.com/fantasy/"}
 -
   id: 4
-  name: "Oana"
+  name: "Prof. Oana"
   surname: "Ignat"
   title: "Assistant Professor at Santa Clara University"
   thumbnailUrl: oana.jpg

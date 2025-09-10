@@ -46,7 +46,7 @@ navigationLinks:
 # - {permalink: "/news/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/resources/", text: "Resources"}
+# - {permalink: "/resources/", text: "Resources"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}

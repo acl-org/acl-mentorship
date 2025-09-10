@@ -43,7 +43,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/news/", text: "News"}
+# - {permalink: "/news/", text: "News"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/resources/", text: "Resources"}
@@ -78,14 +78,14 @@ statisticBlock:
  - {count: "100", specialCharacter: "+", info: "speakers", detail: "Around the world"}
  - {count: "5", specialCharacter: "+", info: "events", detail: "plus entertainment lounge at Gather Town"}
 
-# Latest News Block
-latestNewsTitle: "Latest news"
-
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+## Latest News Block
+#latestNewsTitle: "Latest news"
+#
+## Rockstar Speakers Block
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 4
+#rockstarSpeakersTitle: "Rockstar speakers"
+#rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"

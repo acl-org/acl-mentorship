@@ -3,26 +3,26 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h4>{{ site.aboutTitle }}</h4> <br> <br>
-                 <div class="row about-details">
-                {% assign animationDelay = 0 %}
-                {% for about in site.aboutBlock %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-6">  
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <h5>{{ about.title }}</h5>
-                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="130" width="130" alt="{{ about.title }}">
-                        <p>{{ about.text }}</p>
-                    </div>
-                    <a href="https://docs.google.com/document/d/1-Z4pgk1c35SfRdoinU21osDQn5NlITvnuGYleFGXPuk/edit" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ "Details" }}</a>
+<!--                 <div class="row about-details">-->
+<!--                {% assign animationDelay = 0 %}-->
+<!--                {% for about in site.aboutBlock %}-->
+<!--                {% assign colWidth = 12 | divided_by: forloop.length %}-->
+<!--                <div class="col-md-{{ colWidth }} col-xs-6">  -->
+<!--                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">-->
+<!--                        <h5>{{ about.title }}</h5>-->
+<!--                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="130" width="130" alt="{{ about.title }}">-->
+<!--                        <p>{{ about.text }}</p>-->
+<!--                    </div>-->
+<!--                    <a href="https://docs.google.com/document/d/1-Z4pgk1c35SfRdoinU21osDQn5NlITvnuGYleFGXPuk/edit" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ "Details" }}</a>-->
 
-                </div>
-                {% assign animationDelay = animationDelay | plus:500 %}
-                {% assign check = forloop.index | modulo:2 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-                {% endfor %}
-            </div>
-            <br>
-            <br>
+<!--                </div>-->
+<!--                {% assign animationDelay = animationDelay | plus:500 %}-->
+<!--                {% assign check = forloop.index | modulo:2 %}-->
+<!--                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}-->
+<!--                {% endfor %}-->
+<!--            </div>-->
+<!--            <br>-->
+<!--            <br>-->
             <h5> Overview </h5>
             <p>We are a mentorship network that helps and supports junior researchers in natural language processing (NLP).
                 We aim to promote equal access to advice on NLP career choices, initiate research in NLP, and foster a broader understanding of the field.

@@ -53,7 +53,7 @@
     - {name: "twitter", link: "https://x.com/OanaIgnatRo"}
     - {name: "email", link: "mailto:oignat@scu.edu"}
     - {name: "site", link: "https://oanaignat.github.io/"}
-
+-
   id: 5
   name: "Weijia"
   surname: "Shi"
@@ -64,7 +64,7 @@
     - {name: "twitter", link: "https://x.com/WeijiaShi2"}
     - {name: "email", link: "mailto:swj0419@uw.edu"}
     - {name: "site", link: "https://weijiashi.notion.site/"}
-
+-
   id: 6
   name: "Ziqiao"
   surname: "Ma"
@@ -75,7 +75,6 @@
     - { name: "twitter", link: "https://twitter.com/ziqiao_ma" }
     - { name: "email", link: "mailto:marstin@umich.edu" }
     - { name: "site", link: "https://mars-tin.github.io/" }
-
 -
   id: 7
   name: "Tejas"

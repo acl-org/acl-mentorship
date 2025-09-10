@@ -1,38 +1,5 @@
-- 
+-
   id: 0
-  name: "Prof. Rada"
-  surname: "Mihalcea"
-  title: "Professor at University of Michigan"
-  thumbnailUrl: rada.jpg
-  team: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/radamihalcea"}
-    - {name: "email", link: "mailto:mihalcea@umich.edu"}
-    - {name: "site", link: "https://web.eecs.umich.edu/~mihalcea/"}
-- 
-  id: 1
-  name: "Prof. Mohit"
-  surname: "Bansal"
-  title: "Assoc. Professor at UNC-Chapel Hill"
-  thumbnailUrl: mohit.jpg
-  team: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/mohitban47"}
-    - {name: "email", link: "mailto:mbansal@cs.unc.edu"}
-    - {name: "site", link: "https://www.cs.unc.edu/~mbansal/"}
-- 
-  id: 2
-  name: "Dr. V."
-  surname: "Prabhakaran"
-  title: "Research Scientist at Google"
-  thumbnailUrl: vinod.jpg
-  team: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/vinodkpg"}
-    - {name: "email", link: "mailto:vinodkpg@google.com"}
-    - {name: "site", link: "https://www.cs.stanford.edu/~vinod/"}
-- 
-  id: 3
   name: "Prof. Zhijing"
   surname: "Jin"
   title: "Assistant Professor at University of Toronto"
@@ -43,7 +10,7 @@
     - {name: "email", link: "mailto:zhijing.jin@connect.hku.hk"}
     - {name: "site", link: "https://zhijing-jin.com/fantasy/"}
 -
-  id: 4
+  id: 1
   name: "Prof. Oana"
   surname: "Ignat"
   title: "Assistant Professor at Santa Clara University"
@@ -54,7 +21,7 @@
     - {name: "email", link: "mailto:oignat@scu.edu"}
     - {name: "site", link: "https://oanaignat.github.io/"}
 -
-  id: 5
+  id: 2
   name: "Weijia"
   surname: "Shi"
   title: "PhD Candidate at University of Washington"
@@ -65,7 +32,7 @@
     - {name: "email", link: "mailto:swj0419@uw.edu"}
     - {name: "site", link: "https://weijiashi.notion.site/"}
 -
-  id: 6
+  id: 3
   name: "Ziqiao"
   surname: "Ma"
   title: "PhD Candidate at University of Michigan"
@@ -75,6 +42,39 @@
     - { name: "twitter", link: "https://twitter.com/ziqiao_ma" }
     - { name: "email", link: "mailto:marstin@umich.edu" }
     - { name: "site", link: "https://mars-tin.github.io/" }
+-
+  id: 4
+  name: "Prof. Rada"
+  surname: "Mihalcea"
+  title: "Professor at University of Michigan"
+  thumbnailUrl: rada.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/radamihalcea"}
+    - {name: "email", link: "mailto:mihalcea@umich.edu"}
+    - {name: "site", link: "https://web.eecs.umich.edu/~mihalcea/"}
+-
+  id: 5
+  name: "Prof. Mohit"
+  surname: "Bansal"
+  title: "Assoc. Professor at UNC-Chapel Hill"
+  thumbnailUrl: mohit.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mohitban47"}
+    - {name: "email", link: "mailto:mbansal@cs.unc.edu"}
+    - {name: "site", link: "https://www.cs.unc.edu/~mbansal/"}
+-
+  id: 6
+  name: "Dr. V."
+  surname: "Prabhakaran"
+  title: "Research Scientist at Google"
+  thumbnailUrl: vinod.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/vinodkpg"}
+    - {name: "email", link: "mailto:vinodkpg@google.com"}
+    - {name: "site", link: "https://www.cs.stanford.edu/~vinod/"}
 -
   id: 7
   name: "Tejas"

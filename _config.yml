@@ -58,10 +58,10 @@ heroTitle: "ACL YEAR-ROUND MENTORSHIP"
 eventDate: ""
 typeoutTextValues: '"1-Hour Monthly Panel", "30-Min Monthly GatherTown", "Small-Group Mentoring", "Family"'
 typeoutFallback: "Season"
-heroButtons:
- - {permalink: "/news/apply-to-be-a-Mentee", text: "Become a Mentee"}
- - {permalink: "/news/apply-as-mentor", text: " Become a Mentor"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}
+#heroButtons:
+# - {permalink: "/news/apply-to-be-a-Mentee", text: "Become a Mentee"}
+# - {permalink: "/news/apply-as-mentor", text: " Become a Mentor"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}
 # About Block
 aboutTitle: "About"
 aboutBlock:
@@ -72,10 +72,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "1.jpg"
 statisticBlock:
- - {count: " 650", specialCharacter: "+", info: "members", detail: "Around the world"}
- - {count: "10", specialCharacter: "+", info: "hours", detail: "of Monthly Panels"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "Around the world"}
- - {count: "3", specialCharacter: "+", info: "events", detail: "plus entertainment lounge at Gather Town"}
+ - {count: " 2,500", specialCharacter: "+", info: "members", detail: "Around the world"}
+ - {count: "35", specialCharacter: "+", info: "hours", detail: "of Monthly Panels"}
+ - {count: "100", specialCharacter: "+", info: "speakers", detail: "Around the world"}
+ - {count: "5", specialCharacter: "+", info: "events", detail: "plus entertainment lounge at Gather Town"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

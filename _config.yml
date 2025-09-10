@@ -25,7 +25,8 @@ siteVerification: "VVT6aXRp5qUi0n12dgKsEvcoBEL82yWfrUNQVv-4VuM"
 # Organizer Info
 organizerName: "ACL MENTORSHIP"
 organizerAlternateName: "ACL YEAR-ROUND MENTORSHIP"
-organizerDescription: "We are a mentorship network that helps and supports junior researchers in natural language processing (NLP). Our aim is to promote equal access to advice on NLP career choices, initiating research in NLP, etc. People from all over the world can apply. We are honored to have over 650 members worldwide now."
+organizerDescription: "We are a mentorship network that helps and supports junior researchers in natural language processing (NLP). 
+Our aim is to promote equal access to advice on NLP career choices, initiating research in NLP, etc. People from all over the world can apply. We are honored to have over 650 members worldwide now."
 organizerEmail: "mentorship@aclweb.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://mentorship.aclweb.org/"
@@ -72,7 +73,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "1.jpg"
 statisticBlock:
- - {count: " 2,500", specialCharacter: "+", info: "members", detail: "Around the world"}
+ - {count: " 2500", specialCharacter: "+", info: "members", detail: "Around the world"}
  - {count: "35", specialCharacter: "+", info: "hours", detail: "of Monthly Panels"}
  - {count: "100", specialCharacter: "+", info: "speakers", detail: "Around the world"}
  - {count: "5", specialCharacter: "+", info: "events", detail: "plus entertainment lounge at Gather Town"}

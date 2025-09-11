@@ -13,7 +13,7 @@
   id: 001
   title: "How to choose an NLP research project?"
   description: "Insights from the 1st ACL Global Mentorship Session"
-  subtype: Montly Session
+  subtype: Monthly Session
   speakers: [8, 9, 10]
   language: en
   complexity: "Intermediate"
@@ -23,7 +23,7 @@
   id: 002
   title: "Building Collaborations and Networking "
   description: "Insights from the 2nd ACL Global Mentorship Session"
-  subtype: Montly Session
+  subtype: Monthly Session
   speakers: [11, 12, 13]
   language: en
   complexity: "Intermediate" 
@@ -33,7 +33,7 @@
   id: 003
   title: "Getting the most out of an NLP Conference "
   description: "Insights from the 3rd ACL Global Mentorship Session"
-  subtype: Montly Session
+  subtype: Monthly Session
   speakers: [14, 15, 16]
   language: en
   complexity: "Intermediate" 
@@ -43,7 +43,7 @@
   id: 004
   title: "Applying for a PhD in NLP"
   description: "Insights from the ACL Global Mentorship Session"
-  subtype: Montly Session
+  subtype: Monthly Session
   speakers: [8, 17,18]
   language: en
   complexity: "Beginner"
@@ -52,7 +52,7 @@
 -
   id: 005
   title: "Finding Internships in NLP"
-  subtype: Montly Session
+  subtype: Monthly Session
   speakers: [19, 20, 21]
   language: en
   complexity: "Beginner"
@@ -61,7 +61,7 @@
 -
   id: 006
   title: "Doing NLP on a Budget"
-  subtype: Montly Session
+  subtype: Monthly Session
   speakers: [16, 22, 23]
   language: en
   complexity: "Beginner"
@@ -70,7 +70,7 @@
 -
   id: 007
   title: "Effective Communication in NLP Research"
-  subtype: Montly Session
+  subtype: Monthly Session
   speakers: [24, 25, 26]
   language: en
   complexity: "Beginner"

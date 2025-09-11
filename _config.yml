@@ -48,10 +48,10 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Mentors"}
  - {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}
-rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}
+#bottomNavigationLinks:
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}
+#rightNavigationButtons:
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}
 
 # Hero Block
 heroImage: "hero3.jpg"
@@ -137,7 +137,7 @@ hackathonRows:
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+#partnersC4sponsorsButton: "Become a sponsor"
 
 ## Subscribe Block
 #subscribeImage: "subscribe.jpg"

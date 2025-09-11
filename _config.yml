@@ -83,8 +83,8 @@ statisticBlock:
 #latestNewsTitle: "Resources"
 
 # Hackathon
-#hackathonTitle: "Resources"
-#enableHackathon: true
+hackathonTitle: "Resources"
+enableHackathon: true
 
 # Hackathon About Block
 aboutHackathonTitle: "Resources"

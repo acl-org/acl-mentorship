@@ -73,10 +73,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "1.jpg"
 statisticBlock:
- - {count: "2500", specialCharacter: "+", info: "members", detail: "Around the world"}
+ - {count: "2500", specialCharacter: "+", info: "members", detail: "Around the World"}
  - {count: "35", specialCharacter: "+", info: "hours", detail: "of Monthly Panels"}
- - {count: "100", specialCharacter: "+", info: "speakers", detail: "Around the world"}
- - {count: "5", specialCharacter: "+", info: "events", detail: "plus entertainment lounge at Gather Town"}
+ - {count: "100", specialCharacter: "+", info: "speakers", detail: "Around the World"}
+ - {count: "3", specialCharacter: "+", info: "events", detail: "in person, at NLP Conferences"}
 
 ## Latest News Block
 #latestNewsTitle: "Latest news"

@@ -89,9 +89,10 @@ statisticBlock:
 # Hackathon About Block
 aboutHackathonTitle: "Resources"
 hackathonRows:
- - {title: "ACL Youtube Channel", image: "logos1.png", btn_link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA/featured", btn_text: "Subscribe", details: "The videos on the YouTube channel are from previous Monthly sessions. Don't forget to sign up for updates. <br>"}
+ - {title: "ACL Youtube Channel", image: "logos1.png", btn_link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA/featured", btn_text: "Subscribe", details: "See all previous mentorship recordings! <br>"}
+ - {title: "X: @aclmentorship", image: "x.png", btn_link: "https://x.com/aclmentorship?ref_src=twsrc%5Etfw", btn_text: "Follow", details: "See all future mentorship events! <br>" }
  # - {title: "ACL Mentorship Google Drive Folder", image: "drive.png", btn_link: "https://drive.google.com/drive/folders/1-swEz_79f0FAOdgmrI9dz_Ubm9SP9gju", btn_text: "Drive Link", details: "In case you want to retrieve the most up-to-date resources, you can check our google drive folder which contains the most up-to-date files of our mentorship."}
- - {title: "Slack: ACL with love ❤️", image: "love.png", btn_link: "/slack", btn_text: "Join Slack", details: "A slack community with 400+ mentees and a growing number of mentors (where mentees will raise questions, and mentors can help or just chat with mentees there)."}
+ - {title: "Slack: ACL with love ❤️", image: "love.png", btn_link: "https://join.slack.com/t/acl-with-love/shared_invite/zt-3cxmhlle9-Rphujbz0QBbkPcJd6lPB5Q", btn_text: "Join Slack", details: "A Slack community of 400+ mentees and mentors — a place to ask questions, get guidance, and connect."}
  - {title: "Github Repo", image: "github.png", btn_link: "https://github.com/zhijing-jin/nlp-phd-global-equality", btn_text: "Github Link", details: ' We are collecting a list of useful resources for NLP researchers. Please check out our GitHub <a href="https://github.com/zhijing-jin/nlp-phd-global-equality" > "Resources to Help Global Equality for PhDs in NLP" </a>. Some topics of interest include: How to plan for applications to grad schools in NLP, How to start your first NLP research, Career difference between academia and industry, How to establish interdisciplinary collaborations and many others.'}
 
 
@@ -126,12 +127,12 @@ hackathonRows:
 #venueSmallImage3: "venue_3.jpg"
 #venueTitle: "Kinopalace Cinema"
 #venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-## Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Follow up on X for latest info on next mentorship sessions!"
-twitterHashTag: "aclmentorship"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+#
+### Tweets Feed Block
+#tweetsFeedImage: "twitter-feed.jpg"
+#tweetsFeedTitle: "Follow up on X for latest info on next mentorship sessions!"
+#twitterHashTag: "aclmentorship"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"

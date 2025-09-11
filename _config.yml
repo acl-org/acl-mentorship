@@ -78,8 +78,8 @@ statisticBlock:
  - {count: "100", specialCharacter: "+", info: "speakers", detail: "Around the World"}
  - {count: "3", specialCharacter: "+", info: "events", detail: "in person, at NLP Conferences"}
 
-## Latest News Block
-#latestNewsTitle: "Latest news"
+# Latest News Block
+latestNewsTitle: "Latest news"
 #
 ## Rockstar Speakers Block
 #rockstarSpeakersImage: "rockstar-speakers.jpg"

@@ -147,41 +147,41 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 
 # Footer
-socialLinks:
- - {link: "https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Faclmentorship&sa=D&sntz=1&usg=AOvVaw0SytazMu2xPbNbxlf72P3p", icon: "twitter"}
- - {permalink: "/feed.xml", icon: "rss"}
- - {permalink: "/feed.xml", icon: "slack"}
+#socialLinks:
+# - {link: "https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Faclmentorship&sa=D&sntz=1&usg=AOvVaw0SytazMu2xPbNbxlf72P3p", icon: "twitter"}
+# - {permalink: "/feed.xml", icon: "rss"}
+# - {permalink: "/feed.xml", icon: "slack"}
 
-footerBlocks:
- -
-  title: "Links"
-  links:
-   - {link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA", text: "YouTube Channel"}
-   - {link: "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40zhijing-jin&sa=D&sntz=1&usg=AOvVaw1lGkGNsC4NtW4e3_B0b5mT", text: "Blogs"}
-   - {permalink: "/resources/", text: "Resources"}
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:mentorship@aclweb.org", text: "mentorship@aclweb.org"}
-   - {link: "https://twitter.com/aclmentorship", text: "Twitter"}
-   
- -
-  title: "Other resources"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
-   - {permalink: "/slack/", text: "Slack"}
+#footerBlocks:
+# -
+#  title: "Links"
+#  links:
+#   - {link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA", text: "YouTube Channel"}
+#   - {link: "https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40zhijing-jin&sa=D&sntz=1&usg=AOvVaw1lGkGNsC4NtW4e3_B0b5mT", text: "Blogs"}
+#   - {permalink: "/resources/", text: "Resources"}
+# -
+#  title: "Contacts"
+#  links:
+#   - {link: "mailto:mentorship@aclweb.org", text: "mentorship@aclweb.org"}
+#   - {link: "https://twitter.com/aclmentorship", text: "Twitter"}
+#
+# -
+#  title: "Other resources"
+#  links:
+#   - {permalink: "/cod/", text: "Code of Conduct"}
+#   - {permalink: "/slack/", text: "Slack"}
   
-# Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "https-mentorship-aclweb-org"
-
-# Speakers List Block
-showSessions: true
-
-# Team Block
-teamBlockTitle: "About us"
-aboutUs: "Motivated by the rapidly growing NLP community, we recognize that many junior students join the field each year. Yet, not everyone has equal access to resources or guidance to help them navigate a smooth research and career path in NLP. These differences are often amplified by region, culture, and other factors that make opportunities unevenly distributed. Inspired by the one-time mentorship sessions at NLP conferences, we asked ourselves: what if mentorship could be available all year round, and accessible to students everywhere? That question gave rise to our initiative."
+## Blog
+#blogTitle: "Latest news"
+#blogCommentsEnabled: true
+#discusShortName: "https-mentorship-aclweb-org"
+#
+## Speakers List Block
+#showSessions: true
+#
+## Team Block
+#teamBlockTitle: "About us"
+#aboutUs: "Motivated by the rapidly growing NLP community, we recognize that many junior students join the field each year. Yet, not everyone has equal access to resources or guidance to help them navigate a smooth research and career path in NLP. These differences are often amplified by region, culture, and other factors that make opportunities unevenly distributed. Inspired by the one-time mentorship sessions at NLP conferences, we asked ourselves: what if mentorship could be available all year round, and accessible to students everywhere? That question gave rise to our initiative."
 
 
 

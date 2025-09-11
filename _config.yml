@@ -89,11 +89,11 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Resources"
 hackathonRows:
- - {title: "ACL Youtube Channel", image: "logos1.png", btn_link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA/featured", btn_text: "Subscribe", details: "See all previous mentorship recordings! <br>"}
+ - {title: "YouTube Channel", image: "logos1.png", btn_link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA/featured", btn_text: "Subscribe", details: "See all previous mentorship recordings! <br>"}
  - {title: "X: @aclmentorship", image: "x.png", btn_link: "https://x.com/aclmentorship?ref_src=twsrc%5Etfw", btn_text: "Follow", details: "See all future mentorship events! <br>" }
  # - {title: "ACL Mentorship Google Drive Folder", image: "drive.png", btn_link: "https://drive.google.com/drive/folders/1-swEz_79f0FAOdgmrI9dz_Ubm9SP9gju", btn_text: "Drive Link", details: "In case you want to retrieve the most up-to-date resources, you can check our google drive folder which contains the most up-to-date files of our mentorship."}
- - {title: "Slack: ACL with love ❤️", image: "love.png", btn_link: "https://join.slack.com/t/acl-with-love/shared_invite/zt-3cxmhlle9-Rphujbz0QBbkPcJd6lPB5Q", btn_text: "Join Slack", details: "A Slack community of 400+ mentees and mentors — a place to ask questions, get guidance, and connect."}
- - {title: "Github Repo", image: "github.png", btn_link: "https://github.com/zhijing-jin/nlp-phd-global-equality", btn_text: "Github Link", details: ' We are collecting a list of useful resources for NLP researchers — <a href="https://github.com/zhijing-jin/nlp-phd-global-equality" > "Resources to Help Global Equality for PhDs in NLP" </a>.'}
+ - {title: "Slack: ACL with love ❤️", image: "slack.png", btn_link: "https://join.slack.com/t/acl-with-love/shared_invite/zt-3cxmhlle9-Rphujbz0QBbkPcJd6lPB5Q", btn_text: "Join Slack", details: "A Slack community of 400+ mentees and mentors — a place to ask questions, get guidance, and connect."}
+ - {title: "GitHub Repo", image: "github.png", btn_link: "https://github.com/zhijing-jin/nlp-phd-global-equality", btn_text: "GitHub", details: ' We are collecting a list of useful resources for NLP researchers — <a href="https://github.com/zhijing-jin/nlp-phd-global-equality" > "Resources to Help Global Equality for PhDs in NLP" </a>.'}
 
 
 #

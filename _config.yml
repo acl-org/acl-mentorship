@@ -79,7 +79,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "+", info: "events", detail: "in person, at NLP Conferences"}
 
 ## Latest News Block
-##latestNewsTitle: "Latest news"
+#latestNewsTitle: "Latest news"
 #latestNewsTitle: "Resources"
 
 # Hackathon
@@ -181,8 +181,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 #showSessions: true
 #
 ## Team Block
-#teamBlockTitle: "About us"
-#aboutUs: "Motivated by the rapidly growing NLP community, we recognize that many junior students join the field each year. Yet, not everyone has equal access to resources or guidance to help them navigate a smooth research and career path in NLP. These differences are often amplified by region, culture, and other factors that make opportunities unevenly distributed. Inspired by the one-time mentorship sessions at NLP conferences, we asked ourselves: what if mentorship could be available all year round, and accessible to students everywhere? That question gave rise to our initiative."
+teamBlockTitle: "About us"
+aboutUs: "Motivated by the rapidly growing NLP community, we recognize that many junior students join the field each year. Yet, not everyone has equal access to resources or guidance to help them navigate a smooth research and career path in NLP. These differences are often amplified by region, culture, and other factors that make opportunities unevenly distributed. Inspired by the one-time mentorship sessions at NLP conferences, we asked ourselves: what if mentorship could be available all year round, and accessible to students everywhere? That question gave rise to our initiative."
 
 
 

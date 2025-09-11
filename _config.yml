@@ -166,8 +166,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Motivated by the rapidly growing community of NLP, every year we see many junior students joining the NLP community. However, not all people have the same resources and can receive similar guidance to develop a smooth research/career path in NLP. This difference is exacerbated by the region, cultural group, and many other factors that make resources unequally distributed. Inspired by the one-time mentorship sessions at NLP conferences, we are thinking whether we could make mentorship resources more available all around the year and around the world.
-"
+aboutUs: "Motivated by the rapidly growing NLP community, we recognize that many junior students join the field each year. Yet, not everyone has equal access to resources or guidance to help them navigate a smooth research and career path in NLP. These differences are often amplified by region, culture, and other factors that make opportunities unevenly distributed. Inspired by the one-time mentorship sessions at NLP conferences, we asked ourselves: what if mentorship could be available all year round, and accessible to students everywhere? That question gave rise to our initiative."
 
 # Hackathon
 hackathonTitle: ""

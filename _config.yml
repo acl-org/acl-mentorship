@@ -78,8 +78,23 @@ statisticBlock:
  - {count: "100", specialCharacter: "+", info: "speakers", detail: "Around the World"}
  - {count: "3", specialCharacter: "+", info: "events", detail: "in person, at NLP Conferences"}
 
-# Latest News Block
-latestNewsTitle: "Latest news"
+## Latest News Block
+##latestNewsTitle: "Latest news"
+#latestNewsTitle: "Resources"
+
+# Hackathon
+hackathonTitle: "Resources"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Resources"
+hackathonRows:
+ - {title: "ACL Youtube Channel", image: "logos1.png", btn_link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA/featured", btn_text: "Subscribe", details: "The videos on the YouTube channel are from previous Monthly sessions. Don't forget to sign up for updates. <br>"}
+ # - {title: "ACL Mentorship Google Drive Folder", image: "drive.png", btn_link: "https://drive.google.com/drive/folders/1-swEz_79f0FAOdgmrI9dz_Ubm9SP9gju", btn_text: "Drive Link", details: "In case you want to retrieve the most up-to-date resources, you can check our google drive folder which contains the most up-to-date files of our mentorship."}
+ - {title: "Slack: ACL with love ❤️", image: "love.png", btn_link: "/slack", btn_text: "Join Slack", details: "A slack community with 400+ mentees and a growing number of mentors (where mentees will raise questions, and mentors can help or just chat with mentees there)."}
+ - {title: "Github Repo", image: "github.png", btn_link: "https://github.com/zhijing-jin/nlp-phd-global-equality", btn_text: "Github Link", details: ' We are collecting a list of useful resources for NLP researchers. Please check out our GitHub <a href="https://github.com/zhijing-jin/nlp-phd-global-equality" > "Resources to Help Global Equality for PhDs in NLP" </a>. Some topics of interest include: How to plan for applications to grad schools in NLP, How to start your first NLP research, Career difference between academia and industry, How to establish interdisciplinary collaborations and many others.'}
+
+
 #
 ## Rockstar Speakers Block
 #rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -87,47 +102,47 @@ latestNewsTitle: "Latest news"
 #rockstarSpeakersTitle: "Rockstar speakers"
 #rockstarSpeakersButtonText: "See all speakers"
 
-# Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+## Location Block
+#locationBlockTitle: "Location"
+#eventLocationName: "Conference Hall"
+#eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+#eventStreetAddress: "22 Teatral'na St"
+#eventAddressLocality: "Lviv"
+#eventAddressLocalityRegion: "Lvivska"
+#eventPostalCode: "79000"
+#eventAddressCountry: "Ukraine"
+#eventStartTime: "2014-10-25T10:00"
+#eventDoorTime: "09:00"
+#eventEndTime: "2014-10-25T20:00"
+#eventPlaceCoordinates: "49.843237, 24.028751"
+#mapCenterCoordinates: "49.842537, 24.025701"
+#mapMobileCenterCoordinates: "49.841620, 24.029411"
+#
+## Venue Block
+#venueBlockTitle: "Venue"
+#venueBigImage: "venue_0.jpg"
+#venueSmallImage1: "venue_1.jpg"
+#venueSmallImage2: "venue_2.jpg"
+#venueSmallImage3: "venue_3.jpg"
+#venueTitle: "Kinopalace Cinema"
+#venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
-# Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "aclmentorship"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+## Tweets Feed Block
+#tweetsFeedImage: "twitter-feed.jpg"
+#tweetsFeedTitle: "What's Up?"
+#twitterHashTag: "aclmentorship"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: ""
-subscribeInfo: "Registration will be open across the year!"
+## Subscribe Block
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle: "Subscribe for updates"
+#subscribeAction: ""
+#subscribeInfo: "Registration will be open across the year!"
 
 
 
@@ -168,16 +183,5 @@ showSessions: true
 teamBlockTitle: "About us"
 aboutUs: "Motivated by the rapidly growing NLP community, we recognize that many junior students join the field each year. Yet, not everyone has equal access to resources or guidance to help them navigate a smooth research and career path in NLP. These differences are often amplified by region, culture, and other factors that make opportunities unevenly distributed. Inspired by the one-time mentorship sessions at NLP conferences, we asked ourselves: what if mentorship could be available all year round, and accessible to students everywhere? That question gave rise to our initiative."
 
-# Hackathon
-hackathonTitle: ""
-enableHackathon: true
-
-# Hackathon About Block
-aboutHackathonTitle: "Resources"
-hackathonRows:
- - {title: "ACL Youtube Channel", image: "logos1.png", btn_link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA/featured", btn_text: "Subscribe", details: "The videos on the YouTube channel are from previous Monthly sessions. Don't forget to sign up for updates. <br>"}
-# - {title: "ACL Mentorship Google Drive Folder", image: "drive.png", btn_link: "https://drive.google.com/drive/folders/1-swEz_79f0FAOdgmrI9dz_Ubm9SP9gju", btn_text: "Drive Link", details: "In case you want to retrieve the most up-to-date resources, you can check our google drive folder which contains the most up-to-date files of our mentorship."}
- - {title: "Slack: ACL with love ❤️", image: "love.png", btn_link: "/slack", btn_text: "Join Slack", details: "A slack community with 400+ mentees and a growing number of mentors (where mentees will raise questions, and mentors can help or just chat with mentees there)."}
- - {title: "Github Repo", image: "github.png", btn_link: "https://github.com/zhijing-jin/nlp-phd-global-equality", btn_text: "Github Link", details: ' We are collecting a list of useful resources for NLP researchers. Please check out our GitHub <a href="https://github.com/zhijing-jin/nlp-phd-global-equality" > "Resources to Help Global Equality for PhDs in NLP" </a>. Some topics of interest include: How to plan for applications to grad schools in NLP, How to start your first NLP research, Career difference between academia and industry, How to establish interdisciplinary collaborations and many others.'}
 
 

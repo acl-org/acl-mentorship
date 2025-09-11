@@ -80,19 +80,19 @@ statisticBlock:
 
 ## Latest News Block
 ##latestNewsTitle: "Latest news"
-#latestNewsTitle: "Resources"
+latestNewsTitle: "Resources"
 
-# Hackathon
-hackathonTitle: "Resources"
-enableHackathon: true
-
-# Hackathon About Block
-aboutHackathonTitle: "Resources"
-hackathonRows:
- - {title: "ACL Youtube Channel", image: "logos1.png", btn_link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA/featured", btn_text: "Subscribe", details: "The videos on the YouTube channel are from previous Monthly sessions. Don't forget to sign up for updates. <br>"}
- # - {title: "ACL Mentorship Google Drive Folder", image: "drive.png", btn_link: "https://drive.google.com/drive/folders/1-swEz_79f0FAOdgmrI9dz_Ubm9SP9gju", btn_text: "Drive Link", details: "In case you want to retrieve the most up-to-date resources, you can check our google drive folder which contains the most up-to-date files of our mentorship."}
- - {title: "Slack: ACL with love ❤️", image: "love.png", btn_link: "/slack", btn_text: "Join Slack", details: "A slack community with 400+ mentees and a growing number of mentors (where mentees will raise questions, and mentors can help or just chat with mentees there)."}
- - {title: "Github Repo", image: "github.png", btn_link: "https://github.com/zhijing-jin/nlp-phd-global-equality", btn_text: "Github Link", details: ' We are collecting a list of useful resources for NLP researchers. Please check out our GitHub <a href="https://github.com/zhijing-jin/nlp-phd-global-equality" > "Resources to Help Global Equality for PhDs in NLP" </a>. Some topics of interest include: How to plan for applications to grad schools in NLP, How to start your first NLP research, Career difference between academia and industry, How to establish interdisciplinary collaborations and many others.'}
+## Hackathon
+#hackathonTitle: "Resources"
+#enableHackathon: true
+#
+## Hackathon About Block
+#aboutHackathonTitle: "Resources"
+#hackathonRows:
+# - {title: "ACL Youtube Channel", image: "logos1.png", btn_link: "https://www.youtube.com/channel/UC1yb4lshsTsXkczT5MUCINA/featured", btn_text: "Subscribe", details: "The videos on the YouTube channel are from previous Monthly sessions. Don't forget to sign up for updates. <br>"}
+# # - {title: "ACL Mentorship Google Drive Folder", image: "drive.png", btn_link: "https://drive.google.com/drive/folders/1-swEz_79f0FAOdgmrI9dz_Ubm9SP9gju", btn_text: "Drive Link", details: "In case you want to retrieve the most up-to-date resources, you can check our google drive folder which contains the most up-to-date files of our mentorship."}
+# - {title: "Slack: ACL with love ❤️", image: "love.png", btn_link: "/slack", btn_text: "Join Slack", details: "A slack community with 400+ mentees and a growing number of mentors (where mentees will raise questions, and mentors can help or just chat with mentees there)."}
+# - {title: "Github Repo", image: "github.png", btn_link: "https://github.com/zhijing-jin/nlp-phd-global-equality", btn_text: "Github Link", details: ' We are collecting a list of useful resources for NLP researchers. Please check out our GitHub <a href="https://github.com/zhijing-jin/nlp-phd-global-equality" > "Resources to Help Global Equality for PhDs in NLP" </a>. Some topics of interest include: How to plan for applications to grad schools in NLP, How to start your first NLP research, Career difference between academia and industry, How to establish interdisciplinary collaborations and many others.'}
 
 
 #

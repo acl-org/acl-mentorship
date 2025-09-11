@@ -5,7 +5,7 @@ date:   2021-07-21 09:00:00
 isStaticPost: false
 ---
 
-#### APPLYING TO ACL YEAR-LONG MENTORSHIP As Mentee
+#### APPLYING TO ACL Global MENTORSHIP As Mentee
 
 You can [apply as a mentee](https://docs.google.com/forms/d/e/1FAIpQLSdxvml34YfSKdPijiweYUo2SgeDnmiRyK7cTrLkvofZ7Jtzlw/viewform) if you are a student interested in the field of NLP and you need advice
 on career choices, how to start to do NLP research, and so on.

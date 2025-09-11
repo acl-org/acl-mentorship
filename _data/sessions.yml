@@ -12,7 +12,7 @@
 -
   id: 001
   title: "How to choose an NLP research project?"
-  description: "Insights from the 1st ACL Year-Round Mentorship Session"
+  description: "Insights from the 1st ACL Global Mentorship Session"
   subtype: Montly Session
   speakers: [8, 9, 10]
   language: en
@@ -22,7 +22,7 @@
 -
   id: 002
   title: "Building Collaborations and Networking "
-  description: "Insights from the 2nd ACL Year-Round Mentorship Session"
+  description: "Insights from the 2nd ACL Global Mentorship Session"
   subtype: Montly Session
   speakers: [11, 12, 13]
   language: en
@@ -32,7 +32,7 @@
 -
   id: 003
   title: "Getting the most out of an NLP Conference "
-  description: "Insights from the 3rd ACL Year-Round Mentorship Session"
+  description: "Insights from the 3rd ACL Global Mentorship Session"
   subtype: Montly Session
   speakers: [14, 15, 16]
   language: en
@@ -42,7 +42,7 @@
 -
   id: 004
   title: "Applying for a PhD in NLP"
-  description: "Insights from the ACL Year-Round Mentorship Session"
+  description: "Insights from the ACL Global Mentorship Session"
   subtype: Montly Session
   speakers: [8, 17,18]
   language: en

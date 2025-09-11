@@ -44,9 +44,9 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/news/", text: "News"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - { permalink: "/resources/", text: "Resources" }
  - {permalink: "/speakers/", text: "Mentors"}
- - {permalink: "/resources/", text: "Resources"}
+ - {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdJcgTKinNj8GLWGE57K0Lz_80utpg-aXoyQWrOxxVlZ1wJig/viewform?usp=sf_link", text: "Become a Sponsor"}

@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "ACL GLOBAL MENTORSHIP"
+title: "ACL YEAR-ROUND MENTORSHIP"
 email: "mentorship@aclweb.org"
 description: "We are a mentorship network that helps and supports junior researchers in natural language processing (NLP). Our aim is to promote equal access to advice on NLP career choices, initiating research in NLP, etc. People from all over the world can apply. We are honored to have over 650 members worldwide now."
 baseurl: ""
@@ -24,7 +24,7 @@ siteVerification: "VVT6aXRp5qUi0n12dgKsEvcoBEL82yWfrUNQVv-4VuM"
 
 # Organizer Info
 organizerName: "ACL MENTORSHIP"
-organizerAlternateName: "ACL GLOBAL MENTORSHIP"
+organizerAlternateName: "ACL YEAR-ROUND MENTORSHIP"
 organizerDescription: "We are a mentorship network that helps and supports junior researchers in natural language processing (NLP). 
 Our aim is to promote equal access to advice on NLP career choices, initiating research in NLP, etc. People from all over the world can apply. We are honored to have over 650 members worldwide now."
 organizerEmail: "mentorship@aclweb.org"
@@ -55,7 +55,7 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero3.jpg"
-heroTitle: "ACL GLOBAL MENTORSHIP"
+heroTitle: "ACL YEAR-ROUND MENTORSHIP"
 eventDate: ""
 typeoutTextValues: '"1-Hour Monthly Panel", "30-Min Monthly GatherTown", "Small-Group Mentoring", "Family"'
 typeoutFallback: ""
